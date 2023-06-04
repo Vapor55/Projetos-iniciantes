@@ -1,0 +1,29 @@
+body {
+    
+    font: normal 18px Arial;
+
+}
+
+.lista {background-color:antiquewhite;
+border-radius: 20px;
+
+}
+
+.textA {
+    font-size: 50px;
+    position: center;
+
+
+    
+}
+
+
+
+
+#img1 {
+
+    position: relative;
+    top: 250px;
+
+}
+
